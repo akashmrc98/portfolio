@@ -141,6 +141,7 @@ const SmallDevices = () => {
             title={"Work"}
           />
           <MCustomButton
+            onClick={() => setIsOpen(!isOpen)}
             change={colorChange}
             route="contact"
             title={"Contact"}
