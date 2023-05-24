@@ -34,7 +34,7 @@ import { fonts } from "../config/fontConfig";
 import { colorsConfig } from "../config/colorsConfig";
 import { AnimatePresence, motion } from "framer-motion";
 
-import BG from "../assets/bgs/bg3.jpg";
+import BG from "../assets/spiral.svg";
 
 const TechinicalSkill = () => {
   useEffect(() => {
@@ -63,6 +63,7 @@ const TechinicalSkill = () => {
       backgroundPosition={"center"}
       backgroundSize="contain"
       backgroundRepeat={"no-repeat"}
+      backgroundImage={BG}
       minH="100vh"
     >
       <Box
@@ -187,7 +188,7 @@ const CIcon = (props: { name: string; icon: any; index: number }) => {
           bg={"black"}
           borderRadius="50%"
           m={0}
-          backgroundImage={`radial-gradient(circle, #f273e6, #b953c3, #8334a0, #4e177d, #13005a)`}
+          backgroundImage={`radial-gradient(circle, #ffe459, #f7bc3a, #ec9325, #dc6a1b, #c93d1b)`}
           h={"72px"}
           w={"72px"}
           justifyContent="center"
@@ -195,7 +196,7 @@ const CIcon = (props: { name: string; icon: any; index: number }) => {
           flexDirection="column"
           rowGap={".25rem"}
           position="relative"
-          boxShadow={`1px 1px 1px #040014, -1px -1px 1px ${colorsConfig.sub}`}
+          boxShadow={`0px 0px 24px -12px ${colorsConfig.focus}`}
           data-aos="fade-left"
           data-aos-delay={props.index.toString() + "00"}
         >

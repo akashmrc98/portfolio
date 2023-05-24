@@ -64,7 +64,7 @@ const AboutMe = () => {
       backgroundPosition={"center"}
       backgroundSize="contain"
       backgroundRepeat={"no-repeat"}
-      backgroundImage={BG}
+      // backgroundImage={BG}
       rowGap="2rem"
     >
       <Box width={{ base: "100%", lg: "50%" }}>

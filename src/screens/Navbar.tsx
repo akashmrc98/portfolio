@@ -4,7 +4,7 @@ import { fonts } from "../config/fontConfig";
 import { ScrollTrigger } from "react-gsap";
 import { useEffect, useState } from "react";
 import { colorsConfig } from "../config/colorsConfig";
-import { Box, Button, Flex, Image, Icon, theme } from "@chakra-ui/react";
+import { Box, Button, Flex, Image, Icon } from "@chakra-ui/react";
 import { AiOutlineMenu, AiOutlineCloseCircle } from "react-icons/ai";
 
 import Logo from "../assets/logo.png";
@@ -240,11 +240,12 @@ const CustomButton = (props: any) => {
         border="none"
         fontFamily={fonts.heading}
         minW="28"
-        backgroundImage={`radial-gradient(circle, #f273e6, #b953c3, #8334a0, #4e177d, #13005a)`}
-        boxShadow={`0px 0px 3px ${colorsConfig.sub}`}
+        backgroundImage={`linear-gradient(to right, #c93d1b, #d85f1a, #e57f1e, #ef9e29, #f7bc3a, #f7bc3a, #f7bc3a, #f7bc3a, #ef9e29, #e57f1e, #d85f1a, #c93d1b)`}
+        boxShadow={`0px 0px 24px -14px ${colorsConfig.focus}`}
         variant="outline"
         _hover={{
-          bg: colorsConfig.sub,
+          bg: colorsConfig.bg,
+          color: colorsConfig.sub,
         }}
       >
         {props.title}{" "}
@@ -263,7 +264,7 @@ const MCustomButton = (props: any) => {
         border="none"
         fontFamily={fonts.heading}
         minW="28"
-        backgroundImage={`radial-gradient(circle, #f273e6, #b953c3, #8334a0, #4e177d, #13005a)`}
+        backgroundImage={`linear-gradient(to right, #ffe459, #ffdc4f, #ffd446, #fecb3c, #fec333, #fec333, #fec333, #fec333, #fecb3c, #ffd446, #ffdc4f, #ffe459);`}
         boxShadow={`0px 0px 3px ${colorsConfig.sub}`}
         variant="outline"
         _hover={{

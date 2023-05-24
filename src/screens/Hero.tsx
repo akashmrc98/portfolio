@@ -73,7 +73,7 @@ const Hero = () => {
   return (
     <Box
       bg={colorsConfig.bg}
-      backgroundImage={BG}
+      // backgroundImage={BG}
       backgroundPosition={"center"}
       backgroundSize="contain"
       backgroundRepeat={"no-repeat"}

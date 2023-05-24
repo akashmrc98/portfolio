@@ -1,7 +1,7 @@
 export const colorsConfig = {
-  bg: "#13005A",
-  fg: "#00337C",
-  main: "#1C82AD",
-  sub: "#F273E6",
-  focus: "#03C988",
+  bg: "#171717",
+  fg: "#185ADB",
+  main: "#FFE459",
+  sub: "#FF8B00",
+  focus: "#FFE459",
 };

@@ -38,7 +38,7 @@ const Work = () => {
       backgroundPosition={"center"}
       backgroundSize="contain"
       backgroundRepeat={"no-repeat"}
-      backgroundImage={BG}
+      // backgroundImage={BG}
     >
       <MidDevicesView />
       <MobileDeviceView />
@@ -165,7 +165,6 @@ const MobileDeviceView = () => {
             width={"16px"}
             height={"850px"}
             bg={colorsConfig.bg}
-            backgroundImage={BG}
             display="flex"
             justifyContent={"space-between"}
             alignItems="center"
@@ -352,7 +351,6 @@ const MidDevicesView = () => {
             width={"32px"}
             height={"850px"}
             bg={colorsConfig.bg}
-            backgroundImage={BG}
             display="flex"
             justifyContent={"space-between"}
             alignItems="center"

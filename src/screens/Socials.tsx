@@ -75,7 +75,7 @@ const Socials = () => {
       backgroundPosition={"center"}
       backgroundSize="contain"
       backgroundRepeat={"no-repeat"}
-      backgroundImage={BG}
+      // backgroundImage={BG}
       rowGap="2rem"
     >
       <Box width={{ base: "100%", lg: "50%" }}>
@@ -190,7 +190,7 @@ const CIcon = (props: any) => {
   return (
     <Tilt>
       <Box
-        backgroundImage={`radial-gradient(circle, #f273e6, #b953c3, #8334a0, #4e177d, #13005a)`}
+        backgroundImage={`radial-gradient(circle, #ffe459, #f7bc3a, #ec9325, #dc6a1b, #c93d1b)`}
         p={2}
         borderRadius="md"
         cursor={"pointer"}

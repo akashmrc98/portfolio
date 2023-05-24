@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlnsXlink="http://www.w3.org/1999/xlink"
+    xmlnsSvgjs="http://svgjs.dev/svgjs" viewBox="0 0 800 800">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="cccoil-grad">
+            <stop stop-color="#FFE459" stop-opacity="1" offset="0%"></stop>
+            <stop stop-color="#C93D1B" stop-opacity="1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="url(#cccoil-grad)" fill="none" stroke-linecap="square">
+        <circle r="302.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="0 1901"
+            transform="rotate(360, 400, 400)" stroke-dashoffset="1000" opacity="0.05"></circle>
+        <circle r="297" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="35 1866"
+            transform="rotate(353, 400, 400)" stroke-dashoffset="1000" opacity="0.07"></circle>
+        <circle r="291.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="68 1832"
+            transform="rotate(347, 400, 400)" stroke-dashoffset="1000" opacity="0.09"></circle>
+        <circle r="286" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="100 1797"
+            transform="rotate(340, 400, 400)" stroke-dashoffset="1000" opacity="0.10"></circle>
+        <circle r="280.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="131 1762"
+            transform="rotate(333, 400, 400)" stroke-dashoffset="1000" opacity="0.12"></circle>
+        <circle r="275" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="160 1728"
+            transform="rotate(327, 400, 400)" stroke-dashoffset="1000" opacity="0.14"></circle>
+        <circle r="269.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="188 1693"
+            transform="rotate(320, 400, 400)" stroke-dashoffset="1000" opacity="0.16"></circle>
+        <circle r="264" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="215 1659"
+            transform="rotate(313, 400, 400)" stroke-dashoffset="1000" opacity="0.17"></circle>
+        <circle r="258.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="241 1624"
+            transform="rotate(307, 400, 400)" stroke-dashoffset="1000" opacity="0.19"></circle>
+        <circle r="253" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="265 1590"
+            transform="rotate(300, 400, 400)" stroke-dashoffset="1000" opacity="0.21"></circle>
+        <circle r="247.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="288 1555"
+            transform="rotate(293, 400, 400)" stroke-dashoffset="1000" opacity="0.23"></circle>
+        <circle r="242" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="310 1521"
+            transform="rotate(287, 400, 400)" stroke-dashoffset="1000" opacity="0.24"></circle>
+        <circle r="236.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="330 1486"
+            transform="rotate(280, 400, 400)" stroke-dashoffset="1000" opacity="0.26"></circle>
+        <circle r="231" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="349 1451"
+            transform="rotate(273, 400, 400)" stroke-dashoffset="1000" opacity="0.28"></circle>
+        <circle r="225.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="367 1417"
+            transform="rotate(267, 400, 400)" stroke-dashoffset="1000" opacity="0.30"></circle>
+        <circle r="220" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="384 1382"
+            transform="rotate(260, 400, 400)" stroke-dashoffset="1000" opacity="0.31"></circle>
+        <circle r="214.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="399 1348"
+            transform="rotate(253, 400, 400)" stroke-dashoffset="1000" opacity="0.33"></circle>
+        <circle r="209" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="413 1313"
+            transform="rotate(247, 400, 400)" stroke-dashoffset="1000" opacity="0.35"></circle>
+        <circle r="203.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="426 1279"
+            transform="rotate(240, 400, 400)" stroke-dashoffset="1000" opacity="0.37"></circle>
+        <circle r="198" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="438 1244"
+            transform="rotate(233, 400, 400)" stroke-dashoffset="1000" opacity="0.38"></circle>
+        <circle r="192.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="448 1210"
+            transform="rotate(227, 400, 400)" stroke-dashoffset="1000" opacity="0.40"></circle>
+        <circle r="187" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="457 1175"
+            transform="rotate(220, 400, 400)" stroke-dashoffset="1000" opacity="0.42"></circle>
+        <circle r="181.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="465 1140"
+            transform="rotate(213, 400, 400)" stroke-dashoffset="1000" opacity="0.44"></circle>
+        <circle r="176" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="471 1106"
+            transform="rotate(207, 400, 400)" stroke-dashoffset="1000" opacity="0.45"></circle>
+        <circle r="170.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="476 1071"
+            transform="rotate(200, 400, 400)" stroke-dashoffset="1000" opacity="0.47"></circle>
+        <circle r="165" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="480 1037"
+            transform="rotate(193, 400, 400)" stroke-dashoffset="1000" opacity="0.49"></circle>
+        <circle r="159.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="483 1002"
+            transform="rotate(187, 400, 400)" stroke-dashoffset="1000" opacity="0.51"></circle>
+        <circle r="154" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="484 968"
+            transform="rotate(180, 400, 400)" stroke-dashoffset="1000" opacity="0.53"></circle>
+        <circle r="148.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="484 933"
+            transform="rotate(173, 400, 400)" stroke-dashoffset="1000" opacity="0.54"></circle>
+        <circle r="143" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="483 898"
+            transform="rotate(167, 400, 400)" stroke-dashoffset="1000" opacity="0.56"></circle>
+        <circle r="137.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="480 864"
+            transform="rotate(160, 400, 400)" stroke-dashoffset="1000" opacity="0.58"></circle>
+        <circle r="132" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="476 829"
+            transform="rotate(153, 400, 400)" stroke-dashoffset="1000" opacity="0.60"></circle>
+        <circle r="126.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="471 795"
+            transform="rotate(147, 400, 400)" stroke-dashoffset="1000" opacity="0.61"></circle>
+        <circle r="121" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="465 760"
+            transform="rotate(140, 400, 400)" stroke-dashoffset="1000" opacity="0.63"></circle>
+        <circle r="115.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="457 726"
+            transform="rotate(133, 400, 400)" stroke-dashoffset="1000" opacity="0.65"></circle>
+        <circle r="110" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="448 691"
+            transform="rotate(127, 400, 400)" stroke-dashoffset="1000" opacity="0.67"></circle>
+        <circle r="104.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="438 657"
+            transform="rotate(120, 400, 400)" stroke-dashoffset="1000" opacity="0.68"></circle>
+        <circle r="99" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="426 622"
+            transform="rotate(113, 400, 400)" stroke-dashoffset="1000" opacity="0.70"></circle>
+        <circle r="93.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="413 587"
+            transform="rotate(107, 400, 400)" stroke-dashoffset="1000" opacity="0.72"></circle>
+        <circle r="88" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="399 553"
+            transform="rotate(100, 400, 400)" stroke-dashoffset="1000" opacity="0.74"></circle>
+        <circle r="82.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="384 518"
+            transform="rotate(93, 400, 400)" stroke-dashoffset="1000" opacity="0.75"></circle>
+        <circle r="77" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="367 484"
+            transform="rotate(87, 400, 400)" stroke-dashoffset="1000" opacity="0.77"></circle>
+        <circle r="71.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="349 449"
+            transform="rotate(80, 400, 400)" stroke-dashoffset="1000" opacity="0.79"></circle>
+        <circle r="66" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="330 415"
+            transform="rotate(73, 400, 400)" stroke-dashoffset="1000" opacity="0.81"></circle>
+        <circle r="60.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="310 380"
+            transform="rotate(67, 400, 400)" stroke-dashoffset="1000" opacity="0.82"></circle>
+        <circle r="55" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="288 346"
+            transform="rotate(60, 400, 400)" stroke-dashoffset="1000" opacity="0.84"></circle>
+        <circle r="49.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="265 311"
+            transform="rotate(53, 400, 400)" stroke-dashoffset="1000" opacity="0.86"></circle>
+        <circle r="44" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="241 276"
+            transform="rotate(47, 400, 400)" stroke-dashoffset="1000" opacity="0.88"></circle>
+        <circle r="38.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="215 242"
+            transform="rotate(40, 400, 400)" stroke-dashoffset="1000" opacity="0.89"></circle>
+        <circle r="33" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="188 207"
+            transform="rotate(33, 400, 400)" stroke-dashoffset="1000" opacity="0.91"></circle>
+        <circle r="27.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="160 173"
+            transform="rotate(27, 400, 400)" stroke-dashoffset="1000" opacity="0.93"></circle>
+        <circle r="22" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="131 138"
+            transform="rotate(20, 400, 400)" stroke-dashoffset="1000" opacity="0.95"></circle>
+        <circle r="16.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="100 104"
+            transform="rotate(13, 400, 400)" stroke-dashoffset="1000" opacity="0.96"></circle>
+        <circle r="11" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="68 69"
+            transform="rotate(7, 400, 400)" stroke-dashoffset="1000" opacity="0.98"></circle>
+        <circle r="5.5" cx="400" cy="400" stroke-width="11.5" stroke-dasharray="35 35"
+            stroke-dashoffset="1000" opacity="1.00"></circle>
+    </g>
+</svg>
