@@ -164,7 +164,7 @@ const Hero = () => {
             <SplitWords wrapper={<Flex display={"inline-block"}></Flex>}>
               I’m a software engineer with specialization in full-stack I build
               end to end applications for all platforms Currently focusing on
-              developing product at axlegames.io
+              developing product at Artemis Network 
             </SplitWords>
           </Tween>
         </Box>
